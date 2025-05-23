@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 
 # Load model
-with open('/Users/mohammedmahmood/Desktop/Data projects/Data science/Loan Default Detection Prediction  Main/Loan_Approval_analysis_and_prediction.sav', "rb") as file:
+with open('Loan_Approval_analysis_and_prediction.sav', "rb") as file:
     model = pickle.load(file)
     
 st.title(" Loan Approval Prediction App")
