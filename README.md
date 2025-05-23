@@ -1,6 +1,6 @@
 # Loan Default Detection Analysis & Prediction
 
-The goal is to predict  loan approval outcomes based on applicant financial and demographic details. 
+The goal is to predict  loan approval based on applicant financial and demographic details. 
 Deplyed by interactive Streamlit web app that allows users to input data and receive instant predictions.
 
 
